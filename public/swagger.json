@@ -1,0 +1,10 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "BAKR LANDING API",
+    "description": "API для управления BARK LANDING"
+  },
+  "schemes": ["http", "https"],
+  "paths": {}
+}
